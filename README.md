@@ -15,7 +15,7 @@
 - **API Integration Practice Project**: [View Project](https://react-app2-ccv5.onrender.com/) - Demonstrating skill in integrating and displaying data from external APIs in a web application context.
 
 ## Connect with Me
-Let's collaborate or chat about technology!
+
 - 🌐 [LinkedIn](https://www.linkedin.com/in/mohammed-hodali-3bab86246/) - For professional networking and collaborations.
 - 📧 Email: Mohammedbasel410@gmail.com - Reach out to me for inquiries or opportunities.
 
