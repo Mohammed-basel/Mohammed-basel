@@ -6,13 +6,8 @@
 
 ## About Me
  I'm a recent Computer Science graduate from Arab American University in Palestine, passionate about all things technology. With a strong foundation in front-end development, I am currently diving into the world of back-end technologies to become a well-rounded full-stack developer.
+<br>
 
-## My Projects
-- **E-commerce Website (React.js)**: [View Project](https://e-commerce-dyfe.onrender.com/) - A comprehensive e-commerce platform utilizing React.js for dynamic user experiences and state management.
-- **Responsive Web Design (HTML, CSS, Bootstrap, JavaScript)**: [View Project](https://mohammed-basel.github.io/kingster/) - Showcasing responsive and interactive website design principles with an emphasis on clean UI/UX.
-- **Front-End Projects (HTML, CSS, Bootstrap)**: [Project 1](https://mohammed-basel.github.io/P.folio/) , [Project 2](https://mohammed-basel.github.io/osaka/) and [Project 3](https://mohammed-basel.github.io/French-Restaurant/) - A collection of projects highlighting front-end development skills and design proficiency.
-- **CRUD Application Practice Project**: [View Project](https://6599914402b53df47297ff60--gentle-cascaron-d3e5c4.netlify.app/) - A CRUD application showcasing abilities in database interactions and web application functionality.
-- **API Integration Practice Project**: [View Project](https://react-app2-ccv5.onrender.com/) - Demonstrating skill in integrating and displaying data from external APIs in a web application context.
 
 ## Connect with Me
 
@@ -32,3 +27,99 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  /> <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
+
+<br>
+
+## My Projects
+
+### E-Commerce Website
+
+- Description: A Front-End website , where React, JavaScript, HTML, Bootstrap, and CSS converge to create a seamless online shopping experience. This project integrates a secure user authentication system, dedicated product pages with user reviews, an intuitive shopping cart, streamlined order processing, and personalized user profiles. Enhanced with efficient pagination and sorting systems, it offers users an effortless way to explore a large product catalog.
+
+-  **Technologies**: React, JavaScript, HTML, CSS, Bootstrap.
+
+-  <a href="https://e-commerce-dyfe.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-View%20Project-blue?style=for-the-badge&logo=React" alt="View Project">
+  </a>
+ 
+ - <a href="https://github.com/Mohammed-basel/e-commerce" target="_blank">
+    <img src="https://img.shields.io/badge/-Source%20Code-brightgreen?style=for-the-badge&logo=github" alt="Source Code">
+  </a>
+
+<br>
+
+
+### kingster
+
+- **Description**: A front-end replication of an educational website. The project covers 9 web pages, showcasing the effective use of interactive elements and responsive design to enhance the web educational experience.
+- **Technologies**: HTML, CSS, Bootstrap, JavaScript.
+  
+-  <a href="https://mohammed-basel.github.io/kingster/" target="_blank">
+    <img src="https://img.shields.io/badge/-View%20Project-blue?style=for-the-badge&logo=React" alt="View Project">
+  </a>
+ 
+ - <a href="https://github.com/Mohammed-basel/kingster" target="_blank">
+    <img src="https://img.shields.io/badge/-Source%20Code-brightgreen?style=for-the-badge&logo=github" alt="Source Code">
+  </a>
+  
+<br>
+
+
+
+### P.folio
+- **Description**: This project highlights a responsive design with interactive elements and a highly efficient navigation system.
+- **Technologies Used**: HTML, CSS, Bootstrap.
+- [![View Project](https://img.shields.io/badge/-View%20Project-blue?style=for-the-badge&logo=HTML5)](https://mohammed-basel.github.io/P.folio/)
+  
+- [![Source Code](https://img.shields.io/badge/-Source%20Code-brightgreen?style=for-the-badge&logo=github)](https://github.com/Mohammed-basel/P.folio)
+
+<br>
+
+### osaka
+**Description**: This is my first Bootstrap project, showcases responsive design through tabs and a carousel. It's a simple yet effective website that marks my introduction to Bootstrap.
+
+- **Technologies Used**: HTML, CSS, Bootstrap.
+- [![View Project](https://img.shields.io/badge/-View%20Project-blue?style=for-the-badge&logo=HTML5)](https://mohammed-basel.github.io/osaka/)
+  
+- [![Source Code](https://img.shields.io/badge/-Source%20Code-brightgreen?style=for-the-badge&logo=github)](https://github.com/Mohammed-basel/osaka)
+
+<br>
+
+### French-Restaurant
+**Description**: This project demonstrates responsive design with intuitive navigation, interactive elements, embedded content, and enhanced visuals for a user-friendly website experienc.
+
+- **Technologies Used**: HTML, CSS.
+- [![View Project](https://img.shields.io/badge/-View%20Project-blue?style=for-the-badge&logo=HTML5)](https://mohammed-basel.github.io/French-Restaurant/)
+  
+- [![Source Code](https://img.shields.io/badge/-Source%20Code-brightgreen?style=for-the-badge&logo=github)](https://github.com/Mohammed-basel/French-Restaurant)
+
+
+  <br>
+
+### CRUD Application Practice Project
+- **Description**: This CRUD web application manages and displays user details, providing a practical example of data handling and showcasing the essentials of CRUD operations in web development..
+- **Technologies**: React, JavaScript, HTML, CSS, Bootstrap.
+  
+-  <a href="https://react-crud-3cl5.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/-View%20Project-blue?style=for-the-badge&logo=React" alt="View Project">
+  </a>
+  
+-  <a href="https://github.com/Mohammed-basel/REACT_CRUD" target="_blank">
+    <img src="https://img.shields.io/badge/-Source%20Code-brightgreen?style=for-the-badge&logo=github" alt="Source Code">
+  </a>
+
+  <br>
+
+### API Integration Practice Project
+- **Description**: practical React-based web project demonstrating API integration in an online store. Users can view products from the API, highlighting effective data use.
+- **Technologies**: HTML, CSS, Bootstrap, JavaScript.
+  
+-  <a href="https://react-app2-ccv5.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-View%20Project-blue?style=for-the-badge&logo=React" alt="View Project">
+  </a>
+  
+-  <a href="https://github.com/Mohammed-basel/store" target="_blank">
+    <img src="https://img.shields.io/badge/-Source%20Code-brightgreen?style=for-the-badge&logo=github" alt="Source Code">
+  </a>
+
+
