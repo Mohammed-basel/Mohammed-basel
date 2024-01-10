@@ -5,14 +5,14 @@
 ---
 
 ## About Me
- I'm a recent Computer Science graduate from Arab American University in Palestine, passionate about all things technology. With a strong foundation in front-end development, I am currently diving into the world of back-end technologies to become a well-rounded full-stack developer.
-<br>
+I'm a recent Computer Science graduate from Arab American University in Palestine. My journey in technology is driven by a deep passion for the digital world. As a proficient front-end developer, I'm now expanding my expertise into back-end technologies, aspiring to excel as a full-stack developer. This journey is more than just a career path; it's my contribution to shaping the future of tech.
 
 
 ## Connect with Me
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/mohammed-hodali-3bab86246/) - For professional networking and collaborations.
-- 📧 Email: Mohammedbasel410@gmail.com - Reach out to me for inquiries or opportunities.
+- 🌐 [LinkedIn](https://www.linkedin.com/in/mohammed-hodali-3bab86246/): Connect with me for professional networking and collaborations.
+- 📧 Email: [Mohammedbasel410@gmail.com](mailto:Mohammedbasel410@gmail.com): Feel free to reach out for inquiries or opportunities.
+
 
 ## Languages and Tools
 <div align="left">
@@ -30,96 +30,52 @@
 
 <br>
 
-## My Projects
+## Featured Projects
 
-### E-Commerce Website
+### [E-Commerce Website](https://e-commerce-dyfe.onrender.com/)
+**Technologies**: React, JavaScript, HTML, CSS, Bootstrap  
+A dynamic and user-friendly online shopping platform featuring secure user authentication, product reviews, a shopping cart, order processing, and user profiles. It boasts efficient pagination and sorting for a vast product catalog.
 
-- Description: A Front-End website , where React, JavaScript, HTML, Bootstrap, and CSS converge to create a seamless online shopping experience. This project integrates a secure user authentication system, dedicated product pages with user reviews, an intuitive shopping cart, streamlined order processing, and personalized user profiles. Enhanced with efficient pagination and sorting systems, it offers users an effortless way to explore a large product catalog.
+[View Project](https://e-commerce-dyfe.onrender.com/) | [Source Code](https://github.com/Mohammed-basel/e-commerce)
 
--  **Technologies**: React, JavaScript, HTML, CSS, Bootstrap.
+---
 
--  <a href="https://e-commerce-dyfe.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-View%20Project-blue?style=for-the-badge&logo=React" alt="View Project">
-  </a>
- 
- - <a href="https://github.com/Mohammed-basel/e-commerce" target="_blank">
-    <img src="https://img.shields.io/badge/-Source%20Code-brightgreen?style=for-the-badge&logo=github" alt="Source Code">
-  </a>
+### [Kingster](https://mohammed-basel.github.io/kingster/)
+**Technologies**: HTML, CSS, Bootstrap, JavaScript  
+A front-end replica of an educational website, covering 9 web pages with interactive elements and responsive design, enhancing the online educational experience.
 
-<br>
+[View Project](https://mohammed-basel.github.io/kingster/) | [Source Code](https://github.com/Mohammed-basel/kingster)
 
+---
 
-### kingster
+### [P.folio](https://mohammed-basel.github.io/P.folio/)
+**Technologies Used**: HTML, CSS, Bootstrap  
+A personal portfolio site showcasing responsive design with interactive elements and efficient navigation.
 
-- **Description**: A front-end replication of an educational website. The project covers 9 web pages, showcasing the effective use of interactive elements and responsive design to enhance the web educational experience.
-- **Technologies**: HTML, CSS, Bootstrap, JavaScript.
-  
--  <a href="https://mohammed-basel.github.io/kingster/" target="_blank">
-    <img src="https://img.shields.io/badge/-View%20Project-blue?style=for-the-badge&logo=React" alt="View Project">
-  </a>
- 
- - <a href="https://github.com/Mohammed-basel/kingster" target="_blank">
-    <img src="https://img.shields.io/badge/-Source%20Code-brightgreen?style=for-the-badge&logo=github" alt="Source Code">
-  </a>
-  
-<br>
+[View Project](https://mohammed-basel.github.io/P.folio/) | [Source Code](https://github.com/Mohammed-basel/P.folio)
 
+---
 
+### [French-Restaurant](https://mohammed-basel.github.io/French-Restaurant/)
+**Technologies Used**: HTML, CSS  
+A website for a French restaurant, demonstrating responsive design with intuitive navigation and interactive elements.
 
-### P.folio
-- **Description**: This project highlights a responsive design with interactive elements and a highly efficient navigation system.
-- **Technologies Used**: HTML, CSS, Bootstrap.
-- [![View Project](https://img.shields.io/badge/-View%20Project-blue?style=for-the-badge&logo=HTML5)](https://mohammed-basel.github.io/P.folio/)
-  
-- [![Source Code](https://img.shields.io/badge/-Source%20Code-brightgreen?style=for-the-badge&logo=github)](https://github.com/Mohammed-basel/P.folio)
+[View Project](https://mohammed-basel.github.io/French-Restaurant/) | [Source Code](https://github.com/Mohammed-basel/French-Restaurant)
 
-<br>
+---
 
-### osaka
-**Description**: This is my first Bootstrap project, showcases responsive design through tabs and a carousel. It's a simple yet effective website that marks my introduction to Bootstrap.
-
-- **Technologies Used**: HTML, CSS, Bootstrap.
-- [![View Project](https://img.shields.io/badge/-View%20Project-blue?style=for-the-badge&logo=HTML5)](https://mohammed-basel.github.io/osaka/)
-  
-- [![Source Code](https://img.shields.io/badge/-Source%20Code-brightgreen?style=for-the-badge&logo=github)](https://github.com/Mohammed-basel/osaka)
-
-<br>
-
-### French-Restaurant
-**Description**: This project demonstrates responsive design with intuitive navigation, interactive elements, embedded content, and enhanced visuals for a user-friendly website experienc.
-
-- **Technologies Used**: HTML, CSS.
-- [![View Project](https://img.shields.io/badge/-View%20Project-blue?style=for-the-badge&logo=HTML5)](https://mohammed-basel.github.io/French-Restaurant/)
-  
-- [![Source Code](https://img.shields.io/badge/-Source%20Code-brightgreen?style=for-the-badge&logo=github)](https://github.com/Mohammed-basel/French-Restaurant)
-
-
-  <br>
+## Other Projects
 
 ### CRUD Application Practice Project
-- **Description**: This CRUD web application manages and displays user details, providing a practical example of data handling and showcasing the essentials of CRUD operations in web development..
-- **Technologies**: React, JavaScript, HTML, CSS, Bootstrap.
-  
--  <a href="https://react-crud-3cl5.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/-View%20Project-blue?style=for-the-badge&logo=React" alt="View Project">
-  </a>
-  
--  <a href="https://github.com/Mohammed-basel/REACT_CRUD" target="_blank">
-    <img src="https://img.shields.io/badge/-Source%20Code-brightgreen?style=for-the-badge&logo=github" alt="Source Code">
-  </a>
+**Technologies**: React, JavaScript, HTML, CSS, Bootstrap  
+A CRUD web application for managing and displaying user details, illustrating the essentials of CRUD operations in web development.
 
-  <br>
+[View Project](https://react-crud-3cl5.onrender.com) | [Source Code](https://github.com/Mohammed-basel/REACT_CRUD)
 
 ### API Integration Practice Project
-- **Description**: practical React-based web project demonstrating API integration in an online store. Users can view products from the API, highlighting effective data use.
-- **Technologies**: HTML, CSS, Bootstrap, JavaScript.
-  
--  <a href="https://react-app2-ccv5.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-View%20Project-blue?style=for-the-badge&logo=React" alt="View Project">
-  </a>
-  
--  <a href="https://github.com/Mohammed-basel/store" target="_blank">
-    <img src="https://img.shields.io/badge/-Source%20Code-brightgreen?style=for-the-badge&logo=github" alt="Source Code">
-  </a>
+**Technologies**: HTML, CSS, Bootstrap, JavaScript  
+A practical React-based project demonstrating API integration in an online store setting.
+
+[View Project](https://react-app2-ccv5.onrender.com/) | [Source Code](https://github.com/Mohammed-basel/store)
 
 
