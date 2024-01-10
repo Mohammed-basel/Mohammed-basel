@@ -33,32 +33,40 @@ I'm a recent Computer Science graduate from Arab American University in Palestin
 ## Featured Projects
 
 ### [E-Commerce Website](https://e-commerce-dyfe.onrender.com/)
-**Technologies**: React, JavaScript, HTML, CSS, Bootstrap.
+
 A dynamic and user-friendly online shopping platform featuring secure user authentication, product reviews, a shopping cart, order processing, and user profiles. It boasts efficient pagination and sorting for a vast product catalog.
+
+**Technologies**: React, JavaScript, HTML, CSS, Bootstrap.
 
 [View Project](https://e-commerce-dyfe.onrender.com/) | [Source Code](https://github.com/Mohammed-basel/e-commerce)
 
 ---
 
 ### [Kingster](https://mohammed-basel.github.io/kingster/)
-**Technologies**: HTML, CSS, Bootstrap, JavaScript.
+
 A front-end replica of an educational website, covering 9 web pages with interactive elements and responsive design, enhancing the online educational experience.
+
+**Technologies**: HTML, CSS, Bootstrap, JavaScript.
 
 [View Project](https://mohammed-basel.github.io/kingster/) | [Source Code](https://github.com/Mohammed-basel/kingster)
 
 ---
 
 ### [P.folio](https://mohammed-basel.github.io/P.folio/)
-**Technologies Used**: HTML, CSS, Bootstrap.
+
 A portfolio site showcasing responsive design with interactive elements and efficient navigation.
+
+**Technologies Used**: HTML, CSS, Bootstrap.
 
 [View Project](https://mohammed-basel.github.io/P.folio/) | [Source Code](https://github.com/Mohammed-basel/P.folio)
 
 ---
 
 ### [French-Restaurant](https://mohammed-basel.github.io/French-Restaurant/)
-**Technologies Used**: HTML, CSS.
+
 A website for a French restaurant, demonstrating responsive design with intuitive navigation and interactive elements.
+
+**Technologies Used**: HTML, CSS.
 
 [View Project](https://mohammed-basel.github.io/French-Restaurant/) | [Source Code](https://github.com/Mohammed-basel/French-Restaurant)
 
@@ -67,14 +75,18 @@ A website for a French restaurant, demonstrating responsive design with intuitiv
 ## Other Projects
 
 ### CRUD Application Practice Project
-**Technologies**: React, JavaScript, HTML, CSS, Bootstrap.
+
 A CRUD web application for managing and displaying user details, illustrating the essentials of CRUD operations in web development.
+
+**Technologies**: React, JavaScript, HTML, CSS, Bootstrap.
 
 [View Project](https://react-crud-3cl5.onrender.com) | [Source Code](https://github.com/Mohammed-basel/REACT_CRUD)
 
 ### API Integration Practice Project
-**Technologies**: HTML, CSS, Bootstrap, JavaScript.
+
 A practical React-based project demonstrating API integration in an online store setting.
+
+**Technologies**: HTML, CSS, Bootstrap, JavaScript.
 
 [View Project](https://react-app2-ccv5.onrender.com/) | [Source Code](https://github.com/Mohammed-basel/store)
 
